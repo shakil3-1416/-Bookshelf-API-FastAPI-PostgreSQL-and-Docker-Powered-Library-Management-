@@ -1,4 +1,5 @@
 # -Bookshelf-API-FastAPI-PostgreSQL-and-Docker-Powered-Library-Management-
+This title highlights the use of FastAPI, PostgreSQL, and Docker for building a robust library management system, which includes book and author management, client interactions, and access control using access tokens. It conveys the core features and technologies used in my project.
 
 # Creating a Book Service API with FastAPI, PostgreSQL, and Docker
 
